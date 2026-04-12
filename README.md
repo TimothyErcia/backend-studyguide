@@ -6,7 +6,7 @@ Repository for all my backend exposures
 |:--------:|:---------------------:|:----------:|
 | Node.js  | Express.js            | MongoDB    |
 | Golang   | PostgreSQL for Golang | PostgreSQL |
-| Java     | Springboot            | MySQL      |
+| Python   | FastAPI               | MySQL      |
 ##
 
 ### Goal of the R&D
@@ -16,6 +16,8 @@ To familiarize backend stack with the basic CRUD operation, middle end for basic
 - CRUD operation for v1/route endpoint
 - Request and Response when accessing v1/route endpoint
 - Authentication validation when accessing v1/route endpoint
+- Redis Cache layer
+- Rotating APIKEY layer/service
 
 #### Good to have R&D
 - GraphQL implementaion
