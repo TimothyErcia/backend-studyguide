@@ -26,7 +26,7 @@ To familiarize backend stack with the basic CRUD operation, middle end for basic
 - Rotating token layer/service
 
 ### Low Level Design
-#### Model
+#### User Model
 | id   | name    | password    | api_key        |
 |:----:|:-------:|:-----------:|:--------------:|
 | UUID | VARCHAR |   SHA256    | rotating token | 
